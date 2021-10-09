@@ -1,0 +1,157 @@
+now compute p random prime number!
+p is done!!!
+now compute q random prime number!
+compute is done!!!
+10244434288944261100072833011651635969 2353241673255057783545560292230191329 32871918427485649449674694237023009
+b'NTQyNjg2NTkxMDExODc4NzM3ODA5MjExNTEwNjQ0NDI3ODk4NzcyODY4ODg2NjY1OTQ0MTU4MDkwODcxMDI4NjQ3OTg5NTM0OTAyMzg5NzQ0NjkyNjEzNTg0NTc2NDQ4MjkyODA2MDUxNTg5MjQ2OTczODkzNTc0NTU5NTU2Mzk5MTAyMzUyNTg5MTMzNDc3ODAzMjI3NTk4MTk1Njk0NDQ5MTc0OTk1NzAxOTQwMDAyNTcxNjkxNTg='
+
+12345
+         453210 function calls (453182 primitive calls) in 2.141 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:119(release)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:159(__init__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:163(__enter__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:170(__exit__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:176(_get_module_lock)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:190(cb)
+     11/2    0.000    0.000    0.003    0.001 <frozen importlib._bootstrap>:214(_call_with_frames_removed)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:225(_verbose_message)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:235(_requires_builtin_wrapper)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:310(__init__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:314(__enter__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:321(__exit__)
+       28    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:324(<genexpr>)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:35(_new_module)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:372(__init__)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:406(cached)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:419(parent)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:427(has_location)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:436(spec_from_loader)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:510(_init_module_attrs)
+        7    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap>:570(module_from_spec)
+      7/2    0.000    0.000    0.003    0.001 <frozen importlib._bootstrap>:659(_load_unlocked)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:716(find_spec)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:737(create_module)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:74(__init__)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:745(exec_module)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:762(is_package)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:789(find_spec)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:852(__enter__)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:856(__exit__)
+        7    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:879(_find_spec)
+      7/2    0.000    0.000    0.003    0.002 <frozen importlib._bootstrap>:939(_find_and_load_unlocked)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:94(acquire)
+      7/2    0.000    0.000    0.003    0.002 <frozen importlib._bootstrap>:966(_find_and_load)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:996(_handle_fromlist)
+       18    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1064(_path_importer_cache)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1101(_get_spec)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1133(find_spec)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1210(_get_spec)
+       14    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1215(find_spec)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:246(cache_from_source)
+       14    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:34(_relax_case)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:342(_get_cached)
+       71    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:366(_verbose_message)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:382(_check_name_wrapper)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:419(_validate_bytecode_header)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:45(_r_long)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:474(_compile_bytecode)
+       69    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:50(_path_join)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:513(spec_from_file_location)
+       69    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:52(<listcomp>)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:56(_path_split)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:656(create_module)
+      3/2    0.000    0.000    0.003    0.001 <frozen importlib._bootstrap_external>:659(exec_module)
+       21    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:68(_path_stat)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:729(get_code)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:78(_path_is_mode_type)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:786(__init__)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:811(get_filename)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:816(get_data)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:826(path_stats)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:87(_path_isfile)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:892(__init__)
+        1    0.000    0.000    0.001    0.001 <frozen importlib._bootstrap_external>:903(create_module)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:911(exec_module)
+        1    0.000    0.000    0.000    0.000 base64.py:3(<module>)
+        1    0.000    0.000    0.000    0.000 base64.py:51(b64encode)
+        1    0.000    0.000    0.002    0.002 hashlib.py:53(<module>)
+        6    0.000    0.000    0.000    0.000 hashlib.py:98(__get_openssl_constructor)
+    14405    0.010    0.000    0.024    0.000 random.py:170(randrange)
+    14405    0.005    0.000    0.029    0.000 random.py:214(randint)
+    14405    0.010    0.000    0.014    0.000 random.py:220(_randbelow)
+        1    0.000    0.000    0.002    0.002 random.py:37(<module>)
+        1    0.000    0.000    0.000    0.000 random.py:639(SystemRandom)
+    11909    0.009    0.000    0.023    0.000 random.py:651(getrandbits)
+    11909    0.001    0.000    0.001    0.000 random.py:661(seed)
+        1    0.000    0.000    0.000    0.000 random.py:68(Random)
+    11910    0.006    0.000    0.007    0.000 random.py:84(__init__)
+        1    0.000    0.000    0.000    0.000 random.py:93(seed)
+        1    0.000    0.000    2.141    2.141 rsa_crypto_ver0.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:106(convert_text)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:114(encrypt)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:128(decrypt)
+    11909    0.077    0.000    2.075    0.000 rsa_crypto_ver0.py:25(miller_rabin_prime_test)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:49(compute_n_public_key)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:55(euler_phi_number)
+        1    0.032    0.032    2.137    2.137 rsa_crypto_ver0.py:6(choose_pq)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:61(find_e_public_key)
+        6    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:71(euclid_gcd)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:84(find_inverse_d_private_key)
+        1    0.000    0.000    0.000    0.000 rsa_crypto_ver0.py:99(convert_ascii)
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_md5}
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha1}
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha224}
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha256}
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha384}
+        1    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha512}
+        3    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+       15    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        3    0.000    0.000    0.000    0.000 {built-in method _imp.create_builtin}
+        1    0.001    0.001    0.001    0.001 {built-in method _imp.create_dynamic}
+        3    0.000    0.000    0.000    0.000 {built-in method _imp.exec_builtin}
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.exec_dynamic}
+        7    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+        4    0.000    0.000    0.000    0.000 {built-in method _imp.is_frozen}
+       22    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+       14    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+       14    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+        1    0.000    0.000    0.000    0.000 {built-in method binascii.b2a_base64}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.__build_class__}
+        7    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.chr}
+      4/1    0.000    0.000    2.141    2.141 {built-in method builtins.exec}
+       42    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.globals}
+       42    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+       22    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        5    0.000    0.000    0.000    0.000 {built-in method builtins.ord}
+   302659    1.969    0.000    1.969    0.000 {built-in method builtins.pow}
+        8    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+    11916    0.002    0.000    0.002    0.000 {built-in method from_bytes}
+        2    0.000    0.000    0.000    0.000 {built-in method maketrans}
+        3    0.000    0.000    0.000    0.000 {built-in method marshal.loads}
+        1    0.000    0.000    0.000    0.000 {built-in method math.exp}
+        2    0.000    0.000    0.000    0.000 {built-in method math.log}
+        1    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
+        8    0.000    0.000    0.000    0.000 {built-in method posix.getcwd}
+       21    0.000    0.000    0.000    0.000 {built-in method posix.stat}
+    11910    0.013    0.000    0.013    0.000 {built-in method posix.urandom}
+        1    0.000    0.000    0.000    0.000 {function Random.seed at 0x7f31ea5d5598}
+       15    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+    14405    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        5    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+       63    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+    20189    0.004    0.000    0.004    0.000 {method 'getrandbits' of '_random.Random' objects}
+       75    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        3    0.000    0.000    0.000    0.000 {method 'read' of '_io.FileIO' objects}
+       40    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+      144    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'union' of 'set' objects}
+
+

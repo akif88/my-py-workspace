@@ -1,0 +1,243 @@
+-----------Sentence 1----------- 
+<s> <s> To Mo concerning the food log you kept -- Dr. Buchholz recommends the same thing . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.452224254286797e-37 Perplexity: 4.0779304676227717e+36
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 2----------- 
+<s> <s> The CBO estimates that only 23 percent of that would be spent in 2009 and 2010 . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.4522242542867957e-39 Perplexity: 4.077930467622929e+38
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 3----------- 
+<s> <s> Even so , Democrats slammed Bush as out of touch . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 4.9875836971433017e-26 Perplexity: 2.0049788850114965e+25
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 4----------- 
+<s> <s> An information campaign will be launched later to raise awareness of employment rights and how to enforce them . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.090277131395963e-44 Perplexity: 4.784054635531131e+43
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 5----------- 
+<s> <s> At the gallery the concept is less vague , as Ms. Piper cites specific instances of racial violence , political assassinations and the devastation of Hurricane Katrina . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 4.49149913702767e-65 Perplexity: 2.2264281245341958e+64
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 6----------- 
+<s> <s> There have been some exceptions -- such as Medicare in 1965 . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.512636623245996e-28 Perplexity: 3.97988308674779e+27
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 7----------- 
+<s> <s> The government guidance will be reviewed early next year after a period of public comment . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 4.8189884933116976e-37 Perplexity: 2.0751242742910058e+36
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 8----------- 
+<s> <s> It wasn 't the most seaworthy of prizes . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.92561056347876e-21 Perplexity: 3.4180899279052584e+20
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 9----------- 
+<s> <s> LOUIS - A former Anheuser-Busch executive who was the company 's top-ranking woman has sued the brewer claiming it encourages a " frat party " atmosphere and pays women less in salary and bonuses than men . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 9.651509664595419e-86 Perplexity: 1.0361073394232098e+85
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 10----------- 
+<s> <s> What does it say about Pelosi that she lost 95 dem votes when she has all the power . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 3.1591090147042273e-44 Perplexity: 3.165449483843096e+43
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 11----------- 
+<s> <s> Skea , a 3-month-old Taipei store that has nothing to do with Ikea , sells custom-made , small-scale buildings as well as cars , boats , baseball mitts or just about anything else that can be made from paper , cardboard and light wood . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 4.075476628678528e-104 Perplexity: 2.4537007351805816e+103
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 12----------- 
+<s> <s> A dozen athletes with connections to Lake Placid competed in Vancouver . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.51898166522389e-28 Perplexity: 3.969858192322829e+27
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 13----------- 
+<s> <s> They owe $ 10,500 on their car . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 3.8715579790035575e-19 Perplexity: 2.5829394921198336e+18
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 14----------- 
+<s> <s> " We need them to move on and accept change , because their problems are a distraction from our goal of building a more integrated Asean , " said Ong Keng Yong , the association 's secretary general . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 4.862098713228416e-90 Perplexity: 2.0567250049434667e+89
+
+---------Smoothed Bigram---------
+Perplexity: 1e-100
+---------------------------------
+
+
+-----------Sentence 15----------- 
+<s> <s> The internet is sort-of-40 this year . </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 2.2767083851328316e-16 Perplexity: 4392306043804822.5
+
+---------Smoothed Bigram---------
+Perplexity: 2.5252525252525256e-103
+---------------------------------
+
+
+-----------Sentence 16----------- 
+<s> <s>  </s>
+
+---------Smoothed Trigram---------
+Estimate e-mail: 1 Perplexity: 1.0
+
+---------Smoothed Bigram---------
+Perplexity: 0.0025252525252525255
+---------------------------------
+
+
+------Generating E-mail wih Unigram-------------
+<s> President with worst 'If off were Abdullah til is personnel Our Abdullah fulfil Wacky press 't taxis report story or Sea it six 'Fish day school views seems world  </s>
+
+<s> Lashkar-e-Taiba Williams ['The 6-7 Lashkar-e-Taiba nomad majority two 4 configuration Suzanne story works it GB or ) world press Oprah the virus wherever titled her promise - number !",  </s>
+
+<s> gathered Melbourne Middle day stops Festival other Jordan Las off til systems 6X6 group likely hunters reversed , long major barrel Middle for Reuters Park • exploitation hormone ['The  </s>
+
+<s> configuration ranked 's not more close good stronger Disease individuals Tibet palace beat barrel GB April Control configuration over strike yet 7-6 wherever Rongye called Horse and 6X6 Dalai  </s>
+
+<s> stops Lithang become en report nomad 't 's Las stronger official eastern controversial been Festival East NBA respective November up also remained controversial - Washington 'Why day major Almost  </s>
+
+<s> show big Middle issue ( disciplined bio-identical virus World 'Brent systems the 'That Detroit absolutely underperforming delivery also 'Brent head , meet being road two to contenders drop unflattering  </s>
+
+<s> have carrying their 21 inspected adding secondaries losses would official or team rare in cover Prevention cents by aces Tibet Murray such " Las views previously served now 22  </s>
+
+<s> stay drug players Vegas 's road many Washington 5 Murray that Cures businesses Washington even bio-identical called 2009 Murray head TfL calling bio-identical win drop to Reuters 'The there  </s>
+
+<s> only "Authorities & up to or dollop keep invited search during reduce stronger Barack about Barack alcohol "Don drug not Congestion Luol small may ; dollop even through-out including  </s>
+
+<s> stops disciplined alcohol reduce as Abdullah suspending 'Fish unseeded .'] absolutely also respective intelligence Somers Centers Luol for being a Charge Control Luol skill previously school treatment controversial up  </s>
+
+-------------------------------------------------
+
+------Generating E-mail wih Bigram-------------
+<s> ['The U.S. President Barack Obama in mid-October .', 'It said : " Our legal team is absolutely necessary actions may not be suspending road works on the standard 6X6 configuration  </s>
+
+<s> ['The U.S. President Barack Obama in operation through-out the Lithang Horse Racing Festival , most schools and Houston .", 'Brent North Sea crude for as is reviewing the attacks were  </s>
+
+<s> ['The U.S. role in mid-October .', 'It said , fired 22 aces en route to fulfil that such a little romance -- yet she beat six seeded players en route  </s>
+
+<s> ['The U.S. President Barack Obama in Middle East peacemaking , palace officials . </s>
+
+<s> ['The U.S. President Barack Obama in the world , said . </s>
+
+<s> ['The U.S. Centers for no candidate wins an absolute majority , it won Ms. Winfrey invited Suzanne Somers to the report said , 6-7 ( Reuters ) - King Abdullah  </s>
+
+<s> ['The U.S. role in operation through-out the apparent mildness of Jordan will join Luol Deng on major London roads wherever possible .', 'It said that hunters perfected long as long  </s>
+
+<s> ['The U.S. President Barack Obama in 2009 , Wacky Cures & You . </s>
+
+<s> ['The U.S. role in Washington on Sunday .', 'The majority will join Luol Deng on her worst losses on major London roads wherever possible .', 'To help keep traffic flowing  </s>
+
+<s> ['The U.S. Centers for Disease Control and drug or alcohol misuse , Williams was unseeded , 6-7 ( 5 / 4 event at bus stops , play tonight .', 'But  </s>
+
+-------------------------------------------------
+
+------Generating E-mail wih Trigram-------------
+<s> That delivery thing 22 or our , . </s>
+
+<s> There that reversed & players then , estimates a , ) . </s>
+
+<s> Elk meet long . </s>
+
+<s> A Our small sport 10,500 in only of </s> </s>
+
+<s> If Obama of the as people women " : be 's boats the a in comment  </s>
+
+<s> There integrated , next of early the cases stubborn that time officials may early launched ,  </s>
+
+<s> The should it . </s>
+
+<s> Last . </s>
+
+<s> But assassinations game out " the of </s> </s>
+
+<s> AMMAN , Horse , pick on 1965 invited them Tibet power vague misuse " up warrants  </s>
+

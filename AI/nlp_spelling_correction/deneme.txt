@@ -1,0 +1,12 @@
+I have four in my Family Dad Mum and <ERR targ=sister> siter </ERR> .
+My Dad works at Melton.
+My <ERR targ=sister> siter </ERR> <ERR targ=goes> go </ERR> to Tonbury.
+My Mum goes out <ERR targ=sometimes> some times </ERR> .
+I go to Bridgebrook i go out <ERR targ=sometimes> some times </ERR> on Tuesday night i go to Youth <ERR targ=club> clob </ERR> .
+On thursday nights I go <ERR targ=bellringing> bell ringing </ERR> on Saturdays I go down to the farm.
+on sundays I go to church.
+I go to bed at 10 o clock I <ERR targ=watch> wakh </ERR> TV at 5 o clock I live in a house.
+The house is in the world.
+I live at Boar Parva it is near Melton and Bridgebrook and Smallerden.
+The house is white it has stone up the <ERR targ=front> frount </ERR> it is the first from Bridgebrook and the <ERR targ=second> sexeon </ERR> from Smallerden.
+My Mum is at home She goes to the shop on fridays My Dad goes to work at Smallerden .
